@@ -9,4 +9,4 @@ console.log(-d * +e)
 
 console.log(-d + +2*e + f +true)
 
-
+console.log(Number(d))
